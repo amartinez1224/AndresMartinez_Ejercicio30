@@ -4,6 +4,7 @@
 #PBS -m abe
 #PBS -N Programa
 
+module load anaconda/python3
 #cd /hpcfs/home/fisi4028/a.martinez/AndresMartinez_Ejercicio30
 cd $PBS_O_WORKDIR
 
