@@ -1,5 +1,5 @@
 #!/bin/bash
-#PBS -l nodes=1:ppn=10,mem=64gb,walltime=02:00
+#PBS -l nodes=1:ppn=10,mem=64gb,walltime=00:02:00
 #PBS -M a.martinez@uniandes.edu.co
 #PBS -m abe
 #PBS -N Programa
